@@ -6,13 +6,11 @@ Welcome to the Walkthrough Design Challenge. At Walkthrough, you’ll be leading
 At this point, we love you as a candidate and we're really trying to access what makes _you_ different over the other candidates we like. How well do you know your stuff? How detailed are you? Do we feel really strongly in having you _lead_ our design efforts. Remember, we're non-designers hiring you. **Help us feel that we'd be in good hands with you.**
 
 
-## Getting Started
-Let’s pretend tomorrow you were hired for the lead UX/UI role at Walkthrough. One of your first projects is to build an mobile app for photographers to reduce error, improve consistency, and increase photographer retention. 
+## Your Task
+Let’s pretend tomorrow you were hired for the lead UX/UI role at Walkthrough. One of your first projects is to build an mobile app for photographers to reduce error, improve consistency, and increase photographer retention. For this project, your task is to;
+1. Write the procedure you would follow to achieve your goal and
+2. Write why you are doing each step. 
 
-Write a procedure you would follow including: 
-- Assessing the problem to product deployment
-- Why are you completing each step
-	- Example: Interview 30 users to create a user persona - I’m interviewing 30 customers because it allows me to get a good enough sample size without needing to spend days interviewing users. The persona’s then allow me to evaluate “Does the design work for this user” and also gives me the specific people I should test the end product with. 
 
 ## Evaluation Criteria
 - How thorough are you in your design process?
@@ -31,8 +29,8 @@ Write a procedure you would follow including:
 
 
 
-## Examples 
-#### Procedure
+## Example of a detailed submission 
+#### Procedure (Part 1)
 
 1. Establish the problem, hypothesis, metrics, risks, assumptions, stakeholders.
 2. Interview 3+ users who currently use the product. Questions we'd ask are:
@@ -43,7 +41,7 @@ Write a procedure you would follow including:
 ![Personas](http://i64.tinypic.com/2dwdvdt.png)
 
 
-#### Reasoning
+#### Reasoning (Part 2)
 
 1. Before starting any project. I really need to outline the exact problem we're solving, have an existing starting point with metrics to understand if in the end we've made any improvement, and mark down my own hypothesis and assumptions. 
 2. I chose 3 users because I need to get a basic understanding of what the users care about but don't want to hold up the process of design where I may already know the main issues at hand.  In terms of the questions I'm asking, I'm really trying to dig into XYZ. 
