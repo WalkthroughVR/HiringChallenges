@@ -39,8 +39,8 @@ Write a procedure you would follow including:
 	- Whats your name, age, gender, etc?
 	- What are you trying to achieve?
 	- What frustrates you about our current system?
-3. Create user personas for each user including (Example: http://i64.tinypic.com/2dwdvdt.png)
-
+3. Create user personas for each user including similar to the one below
+![Personas](http://i64.tinypic.com/2dwdvdt.png)
 
 
 #### Reasoning
